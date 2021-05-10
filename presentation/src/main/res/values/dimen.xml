@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="offset_tinier">2dp</dimen>
+    <dimen name="offset_tiny">4dp</dimen>
+    <dimen name="offset_xtiny">6dp</dimen>
+    <dimen name="offset_half">8dp</dimen>
+    <dimen name="offset_xhalf">12dp</dimen>
+    <dimen name="offset">16dp</dimen>
+    <dimen name="offset_middle">20dp</dimen>
+    <dimen name="offset_big">24dp</dimen>
+    <dimen name="offset_very_big">32dp</dimen>
+    <dimen name="offset_huge">44dp</dimen>
+    <dimen name="offset_biggest">48dp</dimen>
+    <dimen name="offset_56">56dp</dimen>
+    <dimen name="offset_60">60dp</dimen>
+    <dimen name="offset_100">100dp</dimen>
+    <dimen name="offset_splash_welcome">112dp</dimen>
+    <dimen name="offset_splash_welcome_image">56dp</dimen>
+    <dimen name="offset_signup">20dp</dimen>
+    <dimen name="offset_signup_from_top">68dp</dimen>
+    <dimen name="offset_signup_from_bottom">24dp</dimen>
+    <dimen name="offset_signup_input_from_top">84dp</dimen>
+
+    <dimen name="language_dialog_height">300dp</dimen>
+
+    <dimen name="text_size">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_big">16sp</dimen>
+    <dimen name="text_size_title">24sp</dimen>
+    <dimen name="text_size_splash_powered_by">10sp</dimen>
+
+    <dimen name="icon_size">24dp</dimen>
+
+    <dimen name="dot_radius">5dp</dimen>
+    <dimen name="dot_space">8dp</dimen>
+
+    <dimen name="dialog_width">344dp</dimen>
+    <dimen name="dialog_height">450dp</dimen>
+    <dimen name="dialog_large_height">560dp</dimen>
+
+    <dimen name="dialog_loading_width">280dp</dimen>
+    <dimen name="dialog_loading_height">146dp</dimen>
+
+    <dimen name="password_lock_width">94dp</dimen>
+    <dimen name="password_lock_height">104dp</dimen>
+
+    <dimen name="digit_size">62dp</dimen>
+
+    <dimen name="corner_radius_toolbar">8dp</dimen>
+
+    <dimen name="avatar">56dp</dimen>
+    <dimen name="avatar_big">72dp</dimen>
+</resources>
